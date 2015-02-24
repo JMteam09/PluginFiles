@@ -1,0 +1,5 @@
+Name:Worker I
+Cost:100
+Time:60
+Level:2
+Requirements:
