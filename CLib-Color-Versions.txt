@@ -1,2 +1,2 @@
-FastIndex:https://raw.githubusercontent.com/JMteam09/PluginFiles/master/CLibcolors-FastIndex.txt
-SpeedDex:https://raw.githubusercontent.com/JMteam09/PluginFiles/master/CLibcolors-SpeedDex.txt
+FastIndex#https://raw.githubusercontent.com/JMteam09/PluginFiles/master/CLibcolors-FastIndex.txt
+SpeedDex#https://raw.githubusercontent.com/JMteam09/PluginFiles/master/CLibcolors-SpeedDex.txt
