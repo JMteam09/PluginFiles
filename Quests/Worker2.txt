@@ -1,0 +1,5 @@
+Name:Worker II
+Cost:200
+Time:120
+Level:2
+Requirements:Worker I
