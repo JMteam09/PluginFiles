@@ -1,0 +1,5 @@
+Name:Worker IV
+Cost:5000
+Time:360
+Level:4
+Requirements:Worker III
