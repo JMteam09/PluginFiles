@@ -2,4 +2,3 @@ Name:Worker I
 Cost:100
 Time:10
 Level:1
-Requirements:
