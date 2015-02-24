@@ -1,0 +1,5 @@
+Name:Worker III
+Cost:1000
+Time:240
+Level:3
+Requirements:Worker II
