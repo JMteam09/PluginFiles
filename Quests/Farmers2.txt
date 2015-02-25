@@ -1,0 +1,5 @@
+Name:Farmers II
+Cost:200
+Time:60
+Level:2
+Requirements:Farmers I

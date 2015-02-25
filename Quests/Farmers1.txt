@@ -1,0 +1,4 @@
+Name:Farmers I
+Cost:100
+Time:10
+Level:1

@@ -1,0 +1,5 @@
+Name:Worker V
+Cost:20000
+Time:600
+Level:5
+Requirements:Farmers IV

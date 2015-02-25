@@ -1,0 +1,5 @@
+Name:Farmers III
+Cost:1000
+Time:360
+Level:3
+Requirements:Farmers II

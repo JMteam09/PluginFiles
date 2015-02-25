@@ -2,4 +2,4 @@ Name:Marketing I
 Cost:1000
 Time:6000
 Level:1
-Requirements:Worker V|Market V|Farmers V
+Requirements:Worker V|Market V
