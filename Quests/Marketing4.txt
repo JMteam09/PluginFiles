@@ -1,5 +1,5 @@
-Name:Marketing I
+Name:Marketing VI
 Cost:1000
 Time:6000
 Level:1
-Requirements:Worker V|Market V
+Requirements:Marketing III

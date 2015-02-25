@@ -3,3 +3,13 @@ Worker2==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Wo
 Worker3==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Worker3.txt
 Worker4==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Worker4.txt
 Worker5==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Worker5.txt
+Marketing1==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Marketing1.txt
+Marketing2==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Marketing2.txt
+Marketing3==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Marketing3.txt
+Marketing4==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Marketing4.txt
+Marketing5==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Marketing5.txt
+Farmers1==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Farmers1.txt
+Farmers2==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Farmers2.txt
+Farmers3==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Farmers3.txt
+Farmers4==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Farmers4.txt
+Farmers5==https://raw.githubusercontent.com/JMteam09/PluginFiles/master/Quests/Farmers5.txt
