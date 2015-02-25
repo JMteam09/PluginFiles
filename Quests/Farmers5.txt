@@ -1,4 +1,4 @@
-Name:Worker V
+Name:Farmers V
 Cost:20000
 Time:600
 Level:5
